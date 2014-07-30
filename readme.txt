@@ -8,11 +8,11 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin allow you to set the minimum weight per order .It will show an error message if the weight is less than the define
+This plugin allow you to set the minimum weight per order .It will show an error message if the weight is less that the define
 
 == Description ==
 
-This plugin allow you to set the minimum weight per order .It will show an error message if the weight is less than the define 
+This plugin allow you to set the minimum weight per order .It will show an error message if the weight is less that the define 
 
 
 == Installation ==
