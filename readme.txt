@@ -27,7 +27,7 @@ This section describes how to install the plugin and get it working.
 
 == Frequently Asked Questions ==
 
-= Will this plugin support the latest version of woo-commerce
+= Will this plugin support the latest version of woo-commerce =
 
 Yes.
 
