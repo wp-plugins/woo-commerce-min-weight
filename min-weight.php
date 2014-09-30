@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Woo Commerce Minimum Weight
-Plugin URI:  http://teamnkac.com/
+Plugin URI:  
 Description: This plugin is used to set the minimum order of any product before checkout
 Version: 1.0.0
-Author: Bhaskar Dhote
-Author URI: http://teamnkac.com/
+Author: Hemant Dhote
+Author URI: 
 */
 ob_start();
 global $wpdbb_content_dir;
