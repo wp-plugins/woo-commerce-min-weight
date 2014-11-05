@@ -4,7 +4,7 @@ Plugin Name: Woo Commerce Minimum Weight
 Plugin URI:  
 Description: This plugin is used to set the minimum order of any product before checkout
 Version: 1.0.0
-Author: Hemant Dhote
+Author: Hemant 
 Author URI: 
 */
 ob_start();
